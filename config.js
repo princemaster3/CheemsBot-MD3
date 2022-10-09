@@ -25,9 +25,9 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['254768371432'] //ur owner number
+global.ownername = "☠︎︎༒︎𝕻𝖗𝖎𝖓𝖈𝖊༒︎☠︎︎"
+global.ytname = "YT: prince" //ur yt chanel name
+global.socialm = "GitHub: princemaster2" //ur github or insta name
+global.location = "KENYA,THIKA" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "PRINCE BOT" //ur bot name
+global.websitex = "https://youtu.be/xn9RatrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.packname = "☠︎︎༒︎𝕻𝖗𝖎𝖓𝖈𝖊༒︎☠︎︎ "
+global.author = "☠︎︎༒︎𝕻𝖗𝖎𝖓𝖈𝖊༒︎☠︎︎"
 global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
+global.reactmoji = "🇰🇪"
+global.ownertag = ['254768371432'] //ur owner tag
+global.ownernummenu = ['254768371432'] //ur owner number in menu and all
 global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.botscript = "https://github.com/princemaster3/CheemsBot-MD3"
+global.linkz1 = "https://chat.whatsapp.com/HnDGiztcVIi1TG7uxgvSr2"
+global.linkz2 = "https://chat.whatsapp.com/FJdEUViC9dE8VEWQ8ny3NA"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
